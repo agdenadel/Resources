@@ -6,6 +6,8 @@
 
 * [Convex Optimization by Stephen Boyd and Lieven Vandenberghe](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
+* [An Introduction to Statistical Learning by Gareth James Daniela Witten Trevor Hastie Robert Tibshirani](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
+
 * [The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, Jerome Friedman](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
 * [Structure and Interpretation of Computer Programs by Harold Abelson, Gerald Jay Sussman, Julie Sussman](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
