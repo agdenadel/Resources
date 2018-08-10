@@ -1,17 +1,18 @@
-https://epubs.siam.org/doi/book/10.1137/1.9780898719147
+* [Mathematical Models in Biology by Leah Edelstein-Keshet](https://epubs.siam.org/doi/book/10.1137/1.9780898719147)
 
-https://www.springer.com/us/book/9780387952239
+* [Mathematical Biology by James Murary](https://www.springer.com/us/book/9780387952239)
 
-https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf
+* [All of Statistics by Larry Wasserman](https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf)
 
-http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
+* [Convex Optimization by Stephen Boyd and Lieven Vandenberghe](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
-https://web.stanford.edu/~hastie/Papers/ESLII.pdf
+* [The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, Jerome Friedman](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
-https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
-https://www.youtube.com/playlist?list=PLB63C06FAF154F047
+* [Structure and Interpretation of Computer Programs by Harold Abelson, Gerald Jay Sussman, Julie Sussman](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 
-http://cs229.stanford.edu/section/cs229-linalg.pdf // has a useful section on matrix calculus
+* [Accompanying videos for SICP](https://www.youtube.com/playlist?list=PLB63C06FAF154F047)
 
-http://www.deeplearningbook.org/
+* [Linear Algebra Review and Reference by Zico Kolter (updated by Chuong Do)](http://cs229.stanford.edu/section/cs229-linalg.pdf) - has a useful section on matrix calculus
+
+* [Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 
