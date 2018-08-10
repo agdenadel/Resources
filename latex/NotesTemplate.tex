@@ -1,0 +1,95 @@
+\documentclass[10pt]{article}         %% What type of document you're writing.
+
+%%%%% Preamble
+
+%% Packages to use
+
+\usepackage{amsmath,amsfonts,amssymb,amsthm}   %% AMS mathematics macros
+\usepackage{enumitem}
+\usepackage{graphicx}
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{corollary}{Corollary}[theorem]
+\newtheorem{lemma}{Lemma}[theorem]
+\newtheorem{remark}{Remark}[theorem]
+%% Title Information.
+
+\title{APMA Summer Program Notes: Week $n$}
+\author{First Person, Second Person}
+%% \date{2 July 2004}           %% By default, LaTeX uses the current date
+
+%%%%% The Document
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+\label{sec: introduction}
+This is a \LaTeX\ template.  Feel free to use this template (or another one if you would prefer) to type It contains a few of the following things, among others:
+
+\begin{enumerate}[label=(\roman*)]
+	\item An introduction
+	\item The Pythagorean Theorem (in Section~\ref{sec: pythag})
+	\item Examples of how to do a few things in Latex, such as:
+	\begin{itemize}
+		\item Making that fancy \LaTeX\ logo
+		\item Writing theorems and proofs
+		\item Creating numbered lists
+		\item Creating bulleted lists
+	\end{itemize}
+	\item Self-reference
+	\item Poor attempts at self-reference related humor
+\end{enumerate}
+
+
+\section{The Pythagorean Theorem}
+\label{sec: pythag}
+The following is a theorem that may look familiar:
+
+\begin{theorem}
+(Pythagorean Theorem)  Suppose that $a$, $b$, and $c$ are the side lengths of a right triangle such that $c$ is the length of the hypotenuse.  Then the following relation holds:
+
+$$a^2+b^2=c^2$$
+\end{theorem}
+
+\begin{proof}
+
+Given a triangle with legs $a$ and $b$ and hypotenuse $c$, we create a trapezoid as in Figure \ref{fig:Pythag}.  It is created by combining two copies of the original triangle, as well a third right triangle with legs of length $c$.  We get that the trapezoid has area $(a+b)(a+b)/2=(a+b)^2/2$.  If we instead express the area of the trapezoid as the sum of the areas of the three triangles, we get that it is equal to $ab/2+ab/2+c^2=2=ab+c^2/2$.
+
+Setting these two areas equal, we get:
+
+$$(a+b)^2/2=ab+c^2/2$$
+
+$$a^2/2+b^2/2+ab=ab+c^2/2$$
+
+$$a^2/2+b^2/2=c^2/2$$
+
+$$a^2+b^2=c^2$$
+
+Since this process can be performed on any right triangle, the relation $a^2+b^2=c^2$ must hold for any right triangle, as desired.
+
+\end{proof}
+
+\begin{figure}
+  \centerline{\includegraphics[width=0.5\linewidth]{Pythag.jpg}}
+  \caption{This trapezoid is used in the proof of the Pythagorean Theorem.  If you need to use figures when you're typing up the notes, you can try to use Latex's drawing capabilities, or otherwise feel free to create the figures in some other way and then add them to the document.}
+  \label{fig:Pythag}
+\end{figure}
+
+\begin{remark}
+This proof was originally discovered by James A. Garfield, the 20th president of the United States (\cite{garfield}).  The proof was surely the most important thing that he did in his lifetime.
+\end{remark}
+
+\begin{thebibliography}{9}
+\bibitem{garfield} 
+Esther Inglis-Arkell. 
+\textit{James Garfield Was the Only U.S. President to Prove a Math Theorem}. 
+Retrieved from https://io9.gizmodo.com/james-garfield-was-the-only-u-s-president-to-prove-a-m-1037750658.
+
+\end{thebibliography}
+
+
+
+\end{document}
+
