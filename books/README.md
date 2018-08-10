@@ -16,3 +16,8 @@
 
 * [Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 
+* [Gaussian Processes by Carl Edward Rasmussen and Christopher K. I. Williams](http://www.gaussianprocess.org/gpml/)
+
+* [Monte Carlo theory, methods and examples by Art B. Owen](http://statweb.stanford.edu/~owen/mc/)
+
+* [Genome-Wide Association Studies and Genomic Prediction](https://link.springer.com/content/pdf/10.1007%2F978-1-62703-447-0.pdf)
