@@ -1,3 +1,5 @@
+# Process
+
 * Define the state of knowledge, tools, understanding you already have. Like a table with grades, a simple list what every you feel comfortable. Make it as clear and simple.
 
 * Define your goals; what is it, you want to have understood. PhD means to walk the border of the unknown, so what are the questions you have that needs to be answered
