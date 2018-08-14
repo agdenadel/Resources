@@ -23,3 +23,25 @@
 * [Monte Carlo theory, methods and examples by Art B. Owen](http://statweb.stanford.edu/~owen/mc/)
 
 * [Genome-Wide Association Studies and Genomic Prediction](https://link.springer.com/content/pdf/10.1007%2F978-1-62703-447-0.pdf)
+
+## Recommended by Mathematical Monk for Analysis and Probability
+
+### Undergrad Analysis
+
+* Principles of Mathematical Analysis by Walter Rudin
+
+### Graduate Probability
+
+* Probability Essentials by Jacod, Protter
+
+* Probability: Theory and Examples by Rick Durrett
+
+* Probability and Random Processes by Grimmett and Stirzaker
+
+* Foundations of Modern Probability by Olav Kallenberg
+
+### Graduate Analysis
+
+* Real Analysis: Modern Techniques and Their Applications by Gerald Folland
+
+* Real and Complex Analysis by Walter Rudin
