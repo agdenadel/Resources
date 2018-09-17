@@ -6,4 +6,6 @@
 
 * [From Autoencoder to Beta-VAE](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
 
+* [Variational Autoencoders Explained](http://anotherdatum.com/vae.html)
+
 * [Topological Data Analysis](http://outlace.com/TDApart1.html)
