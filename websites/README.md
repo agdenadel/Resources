@@ -9,3 +9,5 @@
 * [Variational Autoencoders Explained](http://anotherdatum.com/vae.html)
 
 * [Topological Data Analysis](http://outlace.com/TDApart1.html)
+
+* [Math Expository Papers](http://www.math.uconn.edu/~kconrad/blurbs/)
