@@ -13,3 +13,5 @@
 * [Topological Data Analysis](http://outlace.com/TDApart1.html)
 
 * [Math Expository Papers](http://www.math.uconn.edu/~kconrad/blurbs/)
+
+* [Monte Carlo to MCMC](https://theclevermachine.wordpress.com/2012/09/22/monte-carlo-approximations/)
