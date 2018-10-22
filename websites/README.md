@@ -6,4 +6,12 @@
 
 * [From Autoencoder to Beta-VAE](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
 
+* [Variational Autoencoders Explained](http://anotherdatum.com/vae.html)
+
+* [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
+
 * [Topological Data Analysis](http://outlace.com/TDApart1.html)
+
+* [Math Expository Papers](http://www.math.uconn.edu/~kconrad/blurbs/)
+
+* [Monte Carlo to MCMC](https://theclevermachine.wordpress.com/2012/09/22/monte-carlo-approximations/)
