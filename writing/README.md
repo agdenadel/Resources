@@ -5,3 +5,5 @@
 * [Why Mathematics is Boring by John C. Baez](http://math.ucr.edu/home/baez/boring.pdf)
 
 * [How to Write a Thesis](https://www.cs.jhu.edu/~jason/advice/how-to-write-a-thesis.html)
+
+* [How We Wrote a Textbook](http://tim.hibal.org/blog/how-we-wrote-a-textbook/)
