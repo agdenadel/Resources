@@ -13,3 +13,7 @@
 * [Deep Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html) - from Stanford's CS229.
 
 * [ML Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html) - from Stanford's CS229.
+
+## Information Theory
+
+* [Information Theory: A Tutorial Introduction](https://arxiv.org/abs/1802.05968)
