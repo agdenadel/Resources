@@ -2,6 +2,8 @@
 
 * [List of open source math textbooks](http://linear.ups.edu/curriculum.html)
 
+* [List of open source math textbooks 2](https://aimath.org/textbooks/approved-textbooks/)
+
 * [Mathematical Models in Biology by Leah Edelstein-Keshet](https://epubs.siam.org/doi/book/10.1137/1.9780898719147)
 
 * [Mathematical Biology by James Murary](https://www.springer.com/us/book/9780387952239)
