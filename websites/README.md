@@ -17,3 +17,5 @@
 * [Monte Carlo to MCMC](https://theclevermachine.wordpress.com/2012/09/22/monte-carlo-approximations/)
 
 * [Real-world applications of mathematics, by arxiv subject area](https://mathoverflow.net/questions/2556/real-world-applications-of-mathematics-by-arxiv-subject-area)
+
+* [Empirical Bayes](http://varianceexplained.org/r/empirical_bayes_baseball/)
