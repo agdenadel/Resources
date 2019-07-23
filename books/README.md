@@ -30,6 +30,8 @@
 
 * [Genome-Wide Association Studies and Genomic Prediction](https://link.springer.com/content/pdf/10.1007%2F978-1-62703-447-0.pdf)
 
+* [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)
+
 ## For catching up on core topics
 
 * All the Mathematics You Missed: But Need to Know for Graduate School by Thomas A. Garrity
